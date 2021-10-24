@@ -1,13 +1,9 @@
 1). 
     Apa itu python? python adalah sebuah bahasa pemrograman, bahasa pemrograman yang populer yang dibuat oleh Guido Van rossum. Python termasuk juga bahasa pemrograman yang mudah dipahami dibanding yang lain, gratis, dinamis, multi platform,lagi hype dikalangan programer karena banyak dipake pada data science dan Robotics,machine learning, data analisis dan Artiicial intelegent yang membuat bahasa pemrograman ini populer'
 
-2). Pemrograman Language atau bahasa pemrograman adalah sebuah instruksi kepada komputer untuk melaksanakan perintah-perintah yang diberikan sehingga perintah atau permasalahan tersebut bisa diselesaikan oleh program komputer.
-
-contohnya : 
-    HTML/CSS, Java script, PhpC++ ,Python.
+2). Pemrograman Language atau bahasa pemrograman adalah sebuah instruksi kepada komputer untuk melaksanakan perintah-perintah yang diberikan sehingga perintah atau permasalahan tersebut bisa diselesaikan oleh program komputer.contohnya :HTML/CSS, Java script, Php,C++ ,Python.
     
 3). Programming Language atau bahasa pemrograman adalah bahasa yang menghubungkan antara kita dengan komputer dan bahasa markup mengatur tampilan teks yang akan kita lihat.
-
 contohnya :
 HTML, Hypertext Markup Language.
 KML, Keyhole Markup Language.
@@ -16,43 +12,30 @@ SGML, Standard Generalized Markup Language.
 XHTML, eXtensible Hypertext Markup Language.
 XML, eXtensible Markup Language.
 
-4). Pemrograman visual Pemrograman konvensional : metode pembuatan program dimana programmer membuat koneksi dan mengklik pada diagram dan icon dan berinterkasi dengan diagram alur.
-
-Pemrograman visual : metode pembuatan program dimana programmer membuat koneksi antar objek dengan cara menggambar menunjuk dan mengklik pada diagram dan icon serta berinteraksi dengan diagram alir.
+4). Pemrograman visual Pemrograman konvensional : metode pembuatan berbasis text contohnya :java turbo, pascal.
+    Pemrograman visual : metode pembuatan program berbasis GUI contohnya : Visual basic Delphi
     
-contoh Pemrograman Konvensional : C++
-Contoh pemrograman visual : Visual basic Delphi
+5). Hard coding atau hard code : teknik coding yang digunakan untuk pemanggilan source code, yang dimana SC tersebut tidak dapat diubah,contohnya : 
 
-5). Hard coding atau hard code adalah teknik coding yang digunakan untuk problem yang sudah terformat, tercatat ataupun problem nya memiliki output dengan ruang lingkup kecil."hard coding" berarti memasukkan sesuatu ke dalam kode sumber Anda.hard coding tidak terlalu memperhatikan proses, hanya mengeluarkan output sesuai apa yang tercatat dalam program yang kita buat
+soft coding atau soft code : Dimana SC nya dapat diubah. contohnya : 
 
-soft coding adalah
+6). Interpreter adalah perangkat lunak yang menterjemahkan baris perbaris ke dalam bahasa mesin, contohnya : PHP,Python dll.
+Compiler sendiri adalah Perangkat lunak yang mengonversi SC nya ke mesin contohnya : pascal,visual basic dll
 
-6). Interpreter adalah perangkat lunak yang mampu mengeksekusi code program (yang ditulis oleh programmer) lalu menterjemahkannya ke dalam bahasa mesin, sehingga mesin melakukan instruksi yang diminta oleh programmer tersebut.
+7). Python mudah dipahami dibanding yang lain, sederhana, tidak memakai (;) pada penulisan program,tidak memakai kurung kurawal{}, identasi.
 
-Sedangkan Compiler sendiri adalah program sistem yang digunakan sebagai alat bantu dalam pemrogaman.Perangkat lunak yang melakukan proses penterjemahan code (yang dibuat programmer) ke dalam bahasa mesin. Hasil dari terjemahan ini adalah bahasa mesin. Pada beberapa compiler, output berupa bahasa mesin dilaksanakan dengan proses
-
-contohnya :
-
-Menggunakan Interpreter:
-– PHP
-– ASP
-– Perl
-– Phyton
-
-Menggunakan Compiler:
-– Visual Basic (VB)
-– Fortran
-– Cobol
-– Pascal
-
-7). Python mudah dipahami dibanding yang lain, gratis, dinamis, multi platform,lagi hype dikalangan programer karena banyak dipake pada data science dan Robotics,machine learning, data analisis dan Artiicial intelegent yang membuat bahasa pemrograman ini populer.
-
-8).Perbedaan yang terdapat dari Text Editor dengan IDE hanyalah fitur-fitur nya saja, Text Editor cenderung lebih enteng dan tidak berat seperti IDE, karena tugasnya sebagai mengedit sebuah Plain Text, namun Text Editor memiliki banyak Extension yang bisa digunakan sehingga bisa mempercepat pekerjaan. Sedangkan, IDE memiliki fitur yang lebih banyak dibandingkan Text Editor,
+8).Perbedaan yang terdapat dari Text Editor dengan IDE hanyalah fitur-fitur nya saja, Text Edit, or cenderung lebih enteng dan tidak berat seperti IDE, karena tugasnya sebagai mengedit sebuah Plain Text, namun Text Editor memiliki banyak Extension yang bisa digunakan sehingga bisa mempercepat pekerjaan. Sedangkan, IDE memiliki fitur yang lebih banyak dibandingkan Text Editor,
 
 contohnya : text editor : Notepad++,Sublime Text, Visual Studio Code.
 contoh IDE : Arduino IDE, Android Studio, XCode, IntelliJ.
 
-9)' 
+9)' Ide untuk python : pycharm,spyder
+    text editor python : VSC.
+    
+10). Bahasa Natural : bahasa yang alami,bahasa yang digunakan oleh manusia,dan dalam kehidupan sehari-hari.
+     Algoritma : Langkah-langkah penyelesaian masaalah.
+     flowchart : bagan atau alur penyelesaian masalah.
+     Pseudocode : Langkah-langkah pemecahan masalah dengan menggunakan kode yang tidak terikat pada bahasa pemrograman tertentu.
 
 
 
