@@ -25,4 +25,34 @@ Contoh pemrograman visual : Visual basic Delphi
 
 5). Hard coding atau hard code adalah teknik coding yang digunakan untuk problem yang sudah terformat, tercatat ataupun problem nya memiliki output dengan ruang lingkup kecil."hard coding" berarti memasukkan sesuatu ke dalam kode sumber Anda.hard coding tidak terlalu memperhatikan proses, hanya mengeluarkan output sesuai apa yang tercatat dalam program yang kita buat
 
+soft coding adalah
+
+6). Interpreter adalah perangkat lunak yang mampu mengeksekusi code program (yang ditulis oleh programmer) lalu menterjemahkannya ke dalam bahasa mesin, sehingga mesin melakukan instruksi yang diminta oleh programmer tersebut.
+
+Sedangkan Compiler sendiri adalah program sistem yang digunakan sebagai alat bantu dalam pemrogaman.Perangkat lunak yang melakukan proses penterjemahan code (yang dibuat programmer) ke dalam bahasa mesin. Hasil dari terjemahan ini adalah bahasa mesin. Pada beberapa compiler, output berupa bahasa mesin dilaksanakan dengan proses
+
+contohnya :
+
+Menggunakan Interpreter:
+– PHP
+– ASP
+– Perl
+– Phyton
+
+Menggunakan Compiler:
+– Visual Basic (VB)
+– Fortran
+– Cobol
+– Pascal
+
+7). Python mudah dipahami dibanding yang lain, gratis, dinamis, multi platform,lagi hype dikalangan programer karena banyak dipake pada data science dan Robotics,machine learning, data analisis dan Artiicial intelegent yang membuat bahasa pemrograman ini populer.
+
+8).Perbedaan yang terdapat dari Text Editor dengan IDE hanyalah fitur-fitur nya saja, Text Editor cenderung lebih enteng dan tidak berat seperti IDE, karena tugasnya sebagai mengedit sebuah Plain Text, namun Text Editor memiliki banyak Extension yang bisa digunakan sehingga bisa mempercepat pekerjaan. Sedangkan, IDE memiliki fitur yang lebih banyak dibandingkan Text Editor,
+
+contohnya : text editor : Notepad++,Sublime Text, Visual Studio Code.
+contoh IDE : Arduino IDE, Android Studio, XCode, IntelliJ.
+
+9)' 
+
+
 
