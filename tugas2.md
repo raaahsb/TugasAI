@@ -16,9 +16,13 @@ SGML, Standard Generalized Markup Language.
 XHTML, eXtensible Hypertext Markup Language.
 XML, eXtensible Markup Language.
 
-4]. Pemrograman visual Pemrograman konvensional : metode pembuatan program dimana programmer membuat koneksi dan mengklik pada diagram dan icon dan berinterkasi dengan diagram alur.
+4). Pemrograman visual Pemrograman konvensional : metode pembuatan program dimana programmer membuat koneksi dan mengklik pada diagram dan icon dan berinterkasi dengan diagram alur.
 
 Pemrograman visual : metode pembuatan program dimana programmer membuat koneksi antar objek dengan cara menggambar menunjuk dan mengklik pada diagram dan icon serta berinteraksi dengan diagram alir.
     
 contoh Pemrograman Konvensional : C++
 Contoh pemrograman visual : Visual basic Delphi
+
+5). Hard coding atau hard code adalah teknik coding yang digunakan untuk problem yang sudah terformat, tercatat ataupun problem nya memiliki output dengan ruang lingkup kecil."hard coding" berarti memasukkan sesuatu ke dalam kode sumber Anda.hard coding tidak terlalu memperhatikan proses, hanya mengeluarkan output sesuai apa yang tercatat dalam program yang kita buat
+
+
