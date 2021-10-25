@@ -1,4 +1,5 @@
 1).  Arti angka dari versi python "Download 3.10.0" 
+- Angka dibelakang menunjukkan versi dari python. Python memiliki banyak versi dari versi lama sampai versi terbaru.
 
 2).  Fungsi tools pada Vs-code   
  
