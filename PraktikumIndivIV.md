@@ -28,3 +28,8 @@ KONSEP DUA
   ![image](https://user-images.githubusercontent.com/92993689/139692252-c184392b-1021-493b-96da-e0ab5dc1f419.png)
   ![image](https://user-images.githubusercontent.com/92993689/139692681-8cc814c4-171a-4c17-8b99-75ce2e5be5e4.png)
 
+3)  Misalnya jika jarak antara kecematan Seteng dengan Kecamatan Labuhan Badas pada peta dengan skala batang adalah 4 ruas. Dan untuk satu ruas pada peta tersebut
+dianggap mewakili 1 km, maka berapakah jarak antara kedua kecamatan sesungguhnya?
+
+  ![image](https://user-images.githubusercontent.com/92993689/139694306-70ec738d-eca1-4e2e-8c9d-36336575016a.png)
+  ![image](https://user-images.githubusercontent.com/92993689/139694572-5090c702-f335-43f9-aaf0-23c30e4410bf.png)
