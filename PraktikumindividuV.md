@@ -31,3 +31,14 @@
    ![image](https://user-images.githubusercontent.com/92993689/140077386-2950c1c3-0273-4b46-b903-fafbefecabaa.png)
    ![image](https://user-images.githubusercontent.com/92993689/140077441-57740940-71d5-4092-9b0d-39f92351cd29.png)
    
+7) KERUCUT
+
+   ![v7](https://user-images.githubusercontent.com/92993689/140079733-dc472a5a-0604-44f9-93aa-9811ff7ad7a5.png)
+   ![image](https://user-images.githubusercontent.com/92993689/140079806-d66ef7bb-9c95-4f7d-b237-45b4b46ef198.png)
+   ![image](https://user-images.githubusercontent.com/92993689/140080015-816405da-ab74-40a7-a46d-4477aa6b8e1d.png)
+
+8) Bola 
+
+   ![v8](https://user-images.githubusercontent.com/92993689/140080909-18a31896-57a8-4c72-9c2d-cd3d6bf6a203.png)
+   ![image](https://user-images.githubusercontent.com/92993689/140081064-dbfaf805-11df-4512-9f03-207d7ca45376.png)   ![image](https://user-images.githubusercontent.com/92993689/140081255-4304ab9a-6c59-4201-8449-11d030248a86.png)
+   ![Uploading image.png…]()
