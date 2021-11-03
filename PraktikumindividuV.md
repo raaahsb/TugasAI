@@ -23,8 +23,7 @@
  
    ![V5](https://user-images.githubusercontent.com/92993689/140072848-1605fba4-0754-4fe7-b738-c3757764a43f.png)![image](https://user-images.githubusercontent.com/92993689/140072886-97e0fad0-94a2-49d8-9700-6994fe3773e0.png)
    ![image](https://user-images.githubusercontent.com/92993689/140073085-9e6159dd-2d7c-4a03-b00c-10fde7e97ebb.png)
-   ![image](https://user-images.githubusercontent.com/92993689/140076689-7aa65f12-ab2b-472d-a6f2-143cfb294c87.png)
-
+   
 6) SILINDER (TABUNG)
 
    ![V6](https://user-images.githubusercontent.com/92993689/140076513-06fbbe6c-972b-45d7-81dd-c57f1d8e8ca3.png)
