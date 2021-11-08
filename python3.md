@@ -68,5 +68,41 @@ while trying < limit :
 ```
 ![image](https://user-images.githubusercontent.com/92993689/140703850-a72a2115-c1a4-4b09-af39-544f3cad55c2.png)
 
+6) APLIKASI KALKULATOR
+```py
+# (+ - * / exit)
+command =""
+
+while command != "exit" :
+    command = input("perintah :")
+
+    if command =="exit" :
+        break
+
+    if command != "+" and command != "-" and command != "/":
+        print("Perintah tidak dikenali")
+        continue
+
+    a = int(input("Angka pertama :"))
+    b = int(input("Angka Kedua :"))
+
+    if command =="+" :
+        result = a+b
+    elif command =="-" :
+        result = a-b
+    elif command == "*" :
+        result = a*b
+    elif command == "/" :
+        result = a/b
+
+        print(f"Hasil : {result}")
+
+    print("Terima Kasih Sudah Berkunjung")
+```
+
+![image](https://user-images.githubusercontent.com/92993689/140713224-8bc706fe-6698-401f-bac2-25a75311904f.png)
+![image](https://user-images.githubusercontent.com/92993689/140713038-dbc0d248-96c6-4b0d-b4d3-d54ad36fe01a.png)
+
+
 
 
