@@ -31,3 +31,20 @@ print("\n---------------------------------------------------")
 
 ![image](https://user-images.githubusercontent.com/92993689/141793276-ef638d06-4bad-4b89-8c24-8ef993e216ed.png)
 
+3) MENGHITUNG PEMBELIAN
+```py
+print("\n                 PROGRAM MENGHITUNG PEMBELIAN ")
+print("---------------------------------------------------\n")
+HargaSatuan       = 200000
+print("Harga Satuan     : ", HargaSatuan)
+jumlahPembelian   = 2
+print("Jumlah Pembelian : ", jumlahPembelian)
+diskon            = 4000-10/100
+print("diskon           : ", diskon)
+hargaTotal        = jumlahPembelian*diskon
+print("harga Total      : ", hargaTotal)
+
+print("\n---------------------------------------------------")
+```
+
+![image](https://user-images.githubusercontent.com/92993689/141810009-8f81ccb1-c842-4f9f-8ffe-9e434c3e914b.png)
